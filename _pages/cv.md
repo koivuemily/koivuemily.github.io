@@ -7,5 +7,5 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-[Current CV available here.](https://cmace98.github.io/files/KoivuCVAug25.pdf)
+#{% include base_path %}
+[Current CV available here.](https://koivuemily.github.io/files/KoivuCVAug25.pdf)
