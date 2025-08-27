@@ -1,5 +1,5 @@
 ---
-title: "Lyman-$\alpha$ polarization from cosmological ionization fronts: I. Radiative transfer simulations"
+title: "Lyman-alpha polarization from cosmological ionization fronts: I. Radiative transfer simulations"
 collection: publications
 category: manuscripts
 permalink: /publication/Lya1
