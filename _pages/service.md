@@ -15,4 +15,4 @@ Elected representative for Physics Graduate Student Council for 3 years.
 Graduate Student Mentor for 4 years.
 Undergraduate Student Mentor for 2 years.
 
-<b>details comiing soon<b> 
+<b>details coming soon<b> 
